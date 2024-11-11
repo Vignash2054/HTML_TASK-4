@@ -1,0 +1,42 @@
+.hello{
+    color: rgb(26, 1, 72);
+    margin-left: 83px;
+}
+.hi{
+    margin:2% auto 2% auto;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    width:500px;
+    color: black;
+    height: 650px;
+    background: #C9FFBF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffafbc, #C9FFBF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFAFBD, #c9ffbf9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+   opacity: 0.8;
+}
+body{
+    background-image: url(04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+         
+}
+button{
+    background-color: rgb(25, 148, 11);
+    border-radius: 8px;
+    color: white;
+    margin-left: 24%;
+}
+.hey{
+    text-transform: left;
+    margin-left: 22%;
+
+}
+.oi{
+    text-transform: right;
+    margin-left: 30%;
+}
+
+form{
+   margin: 2px auto 2px 20%;
+}
